@@ -29,14 +29,15 @@
 - --
 ## 💻 Scripting & Automation
 
-- **Python**    -**Bash**
+- **Python**
+- **Bash**
 
 ## 🌐 Languages
 
 - **English** – Fluent  
 - **French** – Intermediate  
 - **Chinese** – Native
-- 
+  
 ## 📫 Contact
 - GitHub: https://github.com/liSan594/liSan594
 - LinkedIn: https://www.linkedin.com/in/li-hongli-3938b1349/
