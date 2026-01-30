@@ -17,11 +17,8 @@
 
 ## 🖥️ Servers & Platforms
 
-- **Windows Servers**
-- **Microsoft Exchange**
-- **SharePoint**
-- **Linux Servers**
-
+- **Windows Servers**                    - **Microsoft Exchange**
+- **SharePoint**                         - **Linux Servers**
 ---
 
 ## 🔒 Network Infrastructure Security
