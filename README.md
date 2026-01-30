@@ -7,7 +7,7 @@
 
 ## About Me :
 
-- 🎓 Studies for Cybersecurity at [LaSalle College](https://lasallecollege.lcieducation.com/en]
+- 🎓 Studies for Cybersecurity at [LaSalle College]https://lasallecollege.lcieducation.com/en
 - 🏡'Live in **Montreal, Canada**
 
 
