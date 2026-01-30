@@ -15,19 +15,34 @@
 
 ## What I am Good at 🧑‍💻 :
 
-<br>
+## 🖥️ Servers & Platforms
 
-<img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img src="https://img.icons8.com/color/48/000000/css3.png"/> <img src="https://img.icons8.com/color/48/000000/sass.png"/> <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/> <img src="https://img.icons8.com/office/48/000000/react.png"/> <img src="https://img.icons8.com/color/48/000000/nextjs.png"/>
+- **Windows Servers**
+- **Microsoft Exchange**
+- **SharePoint**
+- **Linux Servers**
 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png"/> <img src="https://img.icons8.com/officel/48/000000/php-logo.png"/> <img src="https://img.icons8.com/fluency/48/000000/laravel.png"/> <img src="https://img.icons8.com/fluency/48/000000/wordpress.png"/>
+---
 
-<img src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img src="https://img.icons8.com/color/48/000000/firebase.png"/>
+## 🔒 Network Infrastructure Security
 
-<img src="https://img.icons8.com/color/48/000000/npm.png"/>
+- Network segmentation and VLAN configuration  
+- IDS/IPS monitoring, and access control policies  
+- Security policies for servers and endpoints  
+- VPN setup and testing (IPSec, SSL)
 
-<br>
+- --
+## 💻 Scripting & Automation
 
+- **Python**: Scripted system checks, log analysis, and network automation  
+- **Bash**: Linux server management, backup scripts, and cron automation  
 
+## 🌐 Languages
+
+- **English** – Fluent  
+- **French** – Intermediate  
+- **Chinese** – Native
+- 
 ## 📫 Contact
 - GitHub: https://github.com/liSan594/liSan594
 - LinkedIn: https://www.linkedin.com/in/li-hongli-3938b1349/
