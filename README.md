@@ -17,22 +17,19 @@
 
 ## 🖥️ Servers & Platforms
 
-- **Windows Servers**                    - **Microsoft Exchange**
-- **SharePoint**                         - **Linux Servers**
+- **Windows Servers**
+- **Microsoft Exchange**
+- **SharePoint**
+- **Linux Servers**
+  
 ---
 
 ## 🔒 Network Infrastructure Security
 
-- Network segmentation and VLAN configuration  
-- IDS/IPS monitoring, and access control policies  
-- Security policies for servers and endpoints  
-- VPN setup and testing (IPSec, SSL)
-
 - --
 ## 💻 Scripting & Automation
 
-- **Python**: Scripted system checks, log analysis, and network automation  
-- **Bash**: Linux server management, backup scripts, and cron automation  
+- **Python**    -**Bash**
 
 ## 🌐 Languages
 
